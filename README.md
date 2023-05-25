@@ -3,5 +3,5 @@
 뭐가 들어갈진 나도 모름
 
 - 예정
-  - GIT CONVENTION
+  - [COMMIT CONVENTION](https://github.com/pshysd/etc/blob/main/commitConevention.md)
   - HOW TO WRITE MARKDOWN
