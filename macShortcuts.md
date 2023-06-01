@@ -17,5 +17,12 @@
 - alt + up / down: 윈도우 쓸 때 ctrl + home / end 같은 역할 파일 맨 위, 맨 아래로 이동
 - cmd + shift + \: 괄호 단위로 이동 이건 그대로
 - cmd + x: 한줄 잘라내기
-- opt + up / down: 한줄 이동
+- opt + up / down: 현재 커서 위치한 행 위 아래로 이동시킴 -> windows alt + up/ down과 같음
 - opt + shift + up / down: 한줄 복사
+
+### 체크해야 할 것들 - vscode
+
+- alt + shift + i -> 블록 잡혀있는 문장들 다중커서
+- ctrl + t -> 현재 올라가있는 탭들에서 function 찾는거
+- alt + 1, 2, 3, 4 ... -> 열려있는 탭 이동
+- 
